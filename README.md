@@ -27,9 +27,9 @@
 
 <li>Meus hobbies são jogar 🎮, ler mangás ou livros 📖 e assistir a animes 📺.</li>
 
-<li>Cinemáticamente falando, gosto de "Neon Genesis Evangelion", " " e " ".</li>
+<li>Cinemáticamente falando, gosto de "Neon Genesis Evangelion", "Fullmetal Alchemist" e " ".</li>
 
-<li>📬 Se quiser conversar, você pode me encontrar pelo 
+<li>📬 Se quiser conversar, você pode me encontrar pelo meu 
 <a href="mailto:brunogbelo09@gmail.com">e-mail pessoal</a>
 
 <br>
