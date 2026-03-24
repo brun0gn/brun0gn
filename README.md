@@ -25,8 +25,6 @@
 
 <li>Aqui no meu GitHub você vai encontrar alguns projetos, trabalhos e estudos que fazem parte da minha jornada na área de dados.</li>
 
-<li>Além da parte técnica, também gosto muito de contribuir com a comunidade acadêmica.</li>
-
 <li>Meus hobbies são jogos 🎮, cozinhar 🍪 e assistir a animes 📺.</li>
 
 <li>Cinemáticamente falando, gosto de "Neon Genesis Evangelion", " " e " ".</li>
