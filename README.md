@@ -44,7 +44,7 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/mob_psycho_100.gif" width="100%"/>
+<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/mob_psycho_100.gif" width="80%"/>
 
 </td>
 
