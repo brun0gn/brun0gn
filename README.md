@@ -42,10 +42,13 @@
 
 </td>
 
-<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif" width="30%"/>
-
 </tr>
+<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif" width="10%"/>
+
+<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/sonic.gif" width="10%"/>
+
 </table>
+
 
 -----
 
