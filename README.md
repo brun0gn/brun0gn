@@ -29,9 +29,8 @@
 
 <li>Cinemáticamente falando, gosto de "Neon Genesis Evangelion", " " e " ".</li>
 
-<li>📬 Se quiser conversar ou colaborar, você pode me encontrar pelo 
-<a href="mailto:anacslorens1201@gmail.com">e-mail pessoal</a> ou 
-<a href="mailto:analorensdev@gmail.com">e-mail profissional</a>.</li>
+<li>📬 Se quiser conversar, você pode me encontrar pelo 
+<a href="mailto:brunogbelo09@gmail.com">e-mail pessoal</a>
 </ul>
 
 </td>
@@ -43,9 +42,6 @@
 </td>
 
 </tr>
-<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif" width="10%"/>
-
-<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/sonic.gif" width="10%"/>
 
 </table>
 
