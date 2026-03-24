@@ -23,7 +23,7 @@
 <ul>
 <li>Me chamo Bruno Gonçalves e estou me graduando no curso de Ciências de Dados e IA na renomada PUC MINAS.</li>
 
-<li>Aqui no meu GitHub você vai encontrar alguns projetos, trabalhos e estudos que fazem parte da minha jornada na área de dados. Muitos deles surgem de curiosidade, de desafios da faculdade ou de ideias que tive vontade de testar na prática. Para mim, programar e trabalhar com dados também é uma forma de aprender constantemente e construir coisas novas.</li>
+<li>Aqui no meu GitHub você vai encontrar alguns projetos, trabalhos e estudos que fazem parte da minha jornada na área de dados.</li>
 
 <li>Além da parte técnica, também gosto muito de contribuir com a comunidade acadêmica.</li>
 
