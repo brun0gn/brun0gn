@@ -32,6 +32,8 @@
 <li>📬 Se quiser conversar, você pode me encontrar pelo 
 <a href="mailto:brunogbelo09@gmail.com">e-mail pessoal</a>
 
+<br>
+
 <img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif" width="10%"/>
 
 <img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/sonic.gif" width="10%"/>
