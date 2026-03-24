@@ -42,7 +42,7 @@
 
 </td>
 
-<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif" width="100%"/>
+<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif" width="30%"/>
 
 </tr>
 </table>
