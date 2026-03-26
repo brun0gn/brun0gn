@@ -18,7 +18,7 @@
 <table>
 <tr>
 
-<td valign="top" style="padding-top:20px;">
+<td valign="top">
 
 <ul>
 <li>Me chamo Bruno Gonçalves e estou me graduando no curso de Ciências de Dados e IA na renomada PUC MINAS.</li>
