@@ -42,6 +42,10 @@
 
 </td>
 
+<br>
+
+<img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif" width="20%"/>
+
 </tr>
 
 </table>
