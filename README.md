@@ -20,7 +20,7 @@
 
 <td valign="top">
 
-<ul>
+<ul style="margin-top:20px;">
 <li>Me chamo Bruno Gonçalves e estou me graduando no curso de Ciências de Dados e IA na renomada PUC MINAS.</li>
 
 <li>Aqui no meu GitHub você vai encontrar alguns projetos, trabalhos e estudos que fazem parte da minha jornada na área de dados.</li>
