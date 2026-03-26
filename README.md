@@ -25,7 +25,7 @@
 
 <li>Aqui no meu GitHub você vai encontrar alguns projetos, trabalhos e estudos que fazem parte da minha jornada na área de dados.</li>
 
-<li>Meus hobbies são jogar 🎮, ler mangás ou livros 📖 e assistir a animes 📺.</li>
+<li>Meus hobbies são jogar 🎮, assistir a animes 📺, ler mangás e livros 📖.</li>
 
 <li>Cinemáticamente falando, gosto de "Neon Genesis Evangelion", "Fullmetal Alchemist" e " ".</li>
 
