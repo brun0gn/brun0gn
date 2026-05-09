@@ -1,12 +1,6 @@
 -----
 
 
-
------  
-
------
-
-
 <div>
    <details>
    </summary>
@@ -27,7 +21,7 @@
 
 <li>Meus hobbies são jogar 🎮, assistir a animes 📺, ler mangás e livros 📖.</li>
 
-<li>Cinemáticamente falando, gosto de "Neon Genesis Evangelion", "Fullmetal Alchemist" e " ".</li>
+<li>Cinemáticamente falando, gosto de "Neon Genesis Evangelion", "Fullmetal Alchemist" e "Cowboy Bebop".</li>
 
 <li>📬 Se quiser conversar, você pode me encontrar pelo meu 
 <a href="mailto:brunogbelo09@gmail.com">e-mail pessoal</a>
@@ -50,6 +44,17 @@
 
 </table>
 
+-----
+
+<div>
+   <details>
+   </summary>
+     <summary>Skills:</summary>
+    </summary>
+  </details>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=py,github,mysql,cs,dotnet,html,css)](https://skillicons.dev)
 
 -----
 
@@ -67,6 +72,3 @@
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5FABEE&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=64bfd1&height=120&section=footer"/>
