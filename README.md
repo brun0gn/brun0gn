@@ -17,8 +17,10 @@
    <a href="mailto:brunogbelo09@gmail.com">e-mail pessoal</a>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/dark_souls.gif"/>
+  <img width="95%" src="https://github.com/brun0gn/brun0gn/blob/main/gifs/dark-souls.gif"/>
 </p>
 
 -----
@@ -26,18 +28,18 @@
 <div>
    <details>
    </summary>
-     <summary> When i'm not working: </summary>
+     <summary> :video_game: When i'm not working: </summary>
     </summary>
   </details>
 </div>
 
 <div style="display: flex;">
 
-   <p <p align="center">
-      <td><img width="20%" src="https://img.shields.io/badge/Roblox-%230a0b0b.svg?style=for-the-badge&logo=Roblox&logoColor=white" hspace="10"></td>
-      <td><img width="18%" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" hspace="10"></td>
-      <td><img width="20%" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" hspace="10"></td>
-      <td><img width="20%" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" hspace="10"></td>
+   <p>
+      <td><img width="16%" src="https://img.shields.io/badge/Roblox-%230a0b0b.svg?style=for-the-badge&logo=Roblox&logoColor=white" hspace="10"></td>
+      <td><img width="15%" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" hspace="10"></td>
+      <td><img width="17%" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" hspace="10"></td>
+      <td><img width="17%" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" hspace="10"></td>
    </p>
    
 </div>
@@ -47,12 +49,12 @@
 <div>
    <details>
    </summary>
-     <summary> Skills: </summary>
+     <summary> :brain: Skills: </summary>
     </summary>
   </details>
 </div>
 
-<div align="center">
+<div>
 
    [![My Skills](https://skillicons.dev/icons?i=py,github,mysql,cs,dotnet,html,css)](https://skillicons.dev)
 
@@ -63,7 +65,7 @@
 <div>
    <details>
    </summary>
-     <summary>Contribuitions:</summary>
+     <summary> :memo: Contribuitions:</summary>
     </summary>
   </details>
 </div>
