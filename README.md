@@ -6,8 +6,6 @@
   </details>
 </div>
 
-
-
 <p>
    Sou Bruno Gonçalves, estudante de Ciência de Dados e IA na PUC Minas e formado como Técnico em Informática pelo COTEMIG. Tenho interesse em programação, desenvolvimento de software, análise de dados e inteligência artificial, e utilizo este GitHub para reunir projetos, trabalhos e experimentos que fazem parte da minha trajetória de aprendizado.
 
@@ -19,7 +17,9 @@
    <a href="mailto:brunogbelo09@gmail.com">e-mail pessoal</a>
 </p>
 
-
+<p align="center">
+  <img src="dark_souls.gif" />
+</p>
 
 -----
 
