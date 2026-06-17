@@ -1,10 +1,4 @@
-<div>
-   <details>
-   </summary>
-     <summary><img height="25" alt="GIF" src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif"/> About me:</summary>
-    </summary>
-  </details>
-</div>
+# <img height="35" alt="GIF" src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif"/> About me:
 
 <p>
    Sou Bruno Gonçalves, estudante de Ciência de Dados e IA na PUC Minas e formado como Técnico em Informática pelo COTEMIG. Tenho interesse em programação, desenvolvimento de software, análise de dados e inteligência artificial, e utilizo este GitHub para reunir projetos, trabalhos e experimentos que fazem parte da minha trajetória de aprendizado.
@@ -25,13 +19,7 @@
 
 -----
 
-<div>
-   <details>
-   </summary>
-     <summary> :video_game: When i'm not working: </summary>
-    </summary>
-  </details>
-</div>
+# :video_game: When i'm not working: 
 
 <div style="display: flex;">
 
@@ -44,15 +32,8 @@
    
 </div>
 
------
 
-<div>
-   <details>
-   </summary>
-     <summary> :brain: Skills: </summary>
-    </summary>
-  </details>
-</div>
+# :brain: Skills:
 
 <div>
 
@@ -60,15 +41,9 @@
 
 </div>
 
------
 
-<div>
-   <details>
-   </summary>
-     <summary> :memo: Contribuitions:</summary>
-    </summary>
-  </details>
-</div>
+
+# :memo: Contribuitions:
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
