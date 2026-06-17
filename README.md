@@ -5,7 +5,7 @@
 
    Gosto de aprender construindo coisas na prática, seja através de projetos pessoais, estudos ou desafios que me permitam explorar novas tecnologias e expandir meus conhecimentos.
 
-   Fora da programação, gosto de jogar, assistir animes e ler mangás. NieR: Automata e Clair Obscur: Expedition 33 estão entre os meus jogos favoritos, enquanto Mob Psycho 100, Neon Genesis Evangelion e Cowboy Bebop são algumas das obras que mais gosto de revisitar e recomendar.
+   Fora da programação, gosto de jogar, assistir animes e ler mangás. Nier Automata e Clair Obscur Expedition 33 estão entre os meus jogos favoritos, enquanto Mob Psycho 100, Neon Genesis Evangelion e Cowboy Bebop são algumas das obras que mais gosto de revisitar e recomendar.
 
    📬 Se quiser conversar, você pode me encontrar pelo meu 
    <a href="mailto:brunogbelo09@gmail.com">e-mail pessoal</a>
