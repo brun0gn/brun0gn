@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/dark_souls.gif" />
+  <img src="https://github.com/brun0gn/brun0gn/blob/main/gifs/dark_souls.gif"/>
 </p>
 
 -----
