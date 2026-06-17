@@ -1,13 +1,12 @@
 <div>
    <details>
    </summary>
-     <summary><img height="25" alt="GIF" src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif"/> Sobre mim:</summary>
+     <summary><img height="25" alt="GIF" src="https://github.com/brun0gn/brun0gn/blob/main/gifs/shadow_the_hedgehog.gif"/> About me:</summary>
     </summary>
   </details>
 </div>
 
-<table>
-<tr>
+
 
 <p>
    Sou Bruno Gonçalves, estudante de Ciência de Dados e IA na PUC Minas e formado como Técnico em Informática pelo COTEMIG. Tenho interesse em programação, desenvolvimento de software, análise de dados e inteligência artificial, e utilizo este GitHub para reunir projetos, trabalhos e experimentos que fazem parte da minha trajetória de aprendizado.
@@ -21,13 +20,6 @@
 </p>
 
 
-<br>
-
-</ul>
-
-</tr>
-
-</table>
 
 -----
 
@@ -60,11 +52,13 @@
   </details>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,mysql,cs,dotnet,html,css)](https://skillicons.dev)
+<div align="center">
+
+   [![My Skills](https://skillicons.dev/icons?i=py,github,mysql,cs,dotnet,html,css)](https://skillicons.dev)
+
+</div>
 
 -----
-<br>
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=brun0gn&color=blueviolet"/>
 
 <div>
    <details>
@@ -82,6 +76,9 @@
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/souzvjj/souzvjj/output/pacman-contribution-graph.svg">
 </picture>
+
+<br>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=brun0gn&color=blue"/>
 
 -----
 
